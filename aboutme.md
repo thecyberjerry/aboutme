@@ -39,14 +39,12 @@ A custom Shopify panel with advanced search, app extensions, and multi-admin rol
 ### Anna Laxmi Admin Panel — Grocery management system
 An admin panel for grocery operations, including inventory and SKU management, order handling, and real-time store analytics.
 
-**Tech:** React, Tailwind Css, Redux Tookit, React Hook Form, Git, Node.js, Express, MongoDB, Caddy
-
-### MakeIAS — A Edutech platform for IAS Aspirants
-An admin panel for grocery operations, including inventory and SKU management, order handling, and real-time store analytics.
-
 **Tech:** React, Tailwind Css, Redux Tookit, React Hook Form, Git, Node.js, Express, MongoDB, Caddy, Admin Panel Development
 
-**Links:** [Reference](https://www.makeias.com/)
+### MakeIAS Admin Panel — A Edutech platform for IAS Aspirants
+An Admin panel for an Edutech corporation whose mission is to train and teach IAS/IPS/UPSC aspirants for the Civil Services examination and preparation, that involves providing online test series, mocks, and courses on a regular basis with updated information, that can be handled in a all in one Admin Panel for the Makeias organisation where ADMIN have the authority to make changes into his own application and provide the test series and exams to the students that includes a LMS Portal for students.
+
+**Tech:** React, Tailwind Css, Redux Tookit, React Hook Form, Git, Node.js, Express, MongoDB, Caddy, Admin Panel Development
 
 ## Professional experience
 
@@ -56,12 +54,14 @@ An admin panel for grocery operations, including inventory and SKU management, o
 - Manage server deployments and cloud infrastructure on Microsoft Azure.
 
 **Full-Stack Developer — IQSetters** · Mar 2025–Aug 2025  
-- Developed transaction-based APIs and session workflows for an expert-hiring platform.
+- Developed transaction-based APIs and session workflows including the backend and Rest API's development, integrations, and Admin Panel Development.
 - Built and maintained the React-based admin panel.
+- Built the latest development approaches that includes state managements, robust form validations, RBAC's, SEO and etc.
 
 **Full-Stack Developer — Squadify Pro** · Feb 2024–Mar 2025  
 - Developed Brandlift, a custom Shopify panel with advanced search and app-extension capabilities.
 - Implemented Shopify app extensions with Remix and worked on Node.js services, including performance and scalability improvements.
+- Improved products and optimised their performance for upto 40%
 
 ## Application security
 
@@ -71,7 +71,7 @@ Alongside software development, I practise web application security research and
 
 I approach security research responsibly and disclose findings through the relevant programme or organisation. I do not publish sensitive vulnerability details or private client information.
 
-[Security profile / Hall of Fame reference](https://help.wellfound.com/article/814-bugs)
+[Featured in Hall Of Fame](https://help.wellfound.com/article/814-bugs)
 
 ## Strength & Weakness
 

@@ -17,4 +17,4 @@ I enjoy solving engineering problems, building reliable systems, and exploring t
 
 **Explore more:** [About Me & Projects](./aboutme.md)
 
-**Connect:** [Portfolio](https://www.thecyberjerry.com/) · [LinkedIn](https://www.linkedin.com/in/thecyberjerry) · [GitHub](https://github.com/thecyberjerry/aboutme) · [Email](mailto:himanshusharma2719@gmail.com)
+**Connect:** [Portfolio](https://www.thecyberjerry.com/) · [LinkedIn](https://www.linkedin.com/in/thecyberjerry) · [Email](mailto:himanshusharma2719@gmail.com)
