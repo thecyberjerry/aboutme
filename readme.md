@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu Sharma
 
-**Full-Stack & Backend Engineer | AI-Integrated Applications | Application Security**
+**Full-Stack & Backend Engineer | Agentic AI-Integrated Applications | Application Security**
 
 I build scalable web applications, backend systems, and AI-powered products. I have 2+ years of experience working with modern web technologies, cloud infrastructure, and application development, alongside a strong interest in cybersecurity and bug bounty hunting.
 
