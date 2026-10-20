@@ -73,6 +73,16 @@ I approach security research responsibly and disclose findings through the relev
 
 [Security profile / Hall of Fame reference](https://help.wellfound.com/article/814-bugs)
 
+## Strength & Weakness
+
+I take ownership of the tasks assigned to me and approach them with seriousness and commitment. I focus on completing what I start, solving problems along the way, and delivering reliable results. I value accountability and make sure the work entrusted to me gets the attention it deserves.
+
+Sometimes, I spend too much time managing or working on lower-priority tasks. I'm improving by prioritizing tasks based on their impact and urgency, setting clearer goals, and focusing my time on the work that matters most.
+
+## Why hire me
+I bring hands-on experience in full-stack development, backend engineering, and AI-integrated applications, along with an application-security mindset. I take responsibility for my work, approach problems methodically, and care about building solutions that are reliable, maintainable, and secure. I'm willing to learn, adapt to the team's needs, and contribute beyond simply completing assigned tasks.
+
+
 ## Certifications
 
 - Introduction to Cybersecurity
