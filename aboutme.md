@@ -29,17 +29,24 @@ I prefer building reliable, maintainable systems with clear APIs, practical user
 Backend and infrastructure for an AI-powered interview-as-a-service product. The system supports autonomous AI-led interviews, WebRTC-based interactions, post-interview reports, HR-defined job roles, and ATS-scored resume analysis.
 
 **Tech:** Node.js, NestJS, FastAPI, Python, LiveKit, LangChain, Azure, Cosmos DB  
-**Links:** [Live demo](https://cointervue.com/)
+**Links:** [Reference](https://cointervue.com/)
 
-### Brandlift — Shopify application
+### Brandlift Admin Extension — Shopify application
 A custom Shopify panel with advanced search, app extensions, and multi-admin role management. Built to extend e-commerce workflows through a dedicated application interface.
 
 **Tech:** Vanilla Javascript, Remix.js, React.js, Node.js, Shopify, Shopify Extensions
 
-### Anna Laxmi — Grocery management system
+### Anna Laxmi Admin Panel — Grocery management system
 An admin panel for grocery operations, including inventory and SKU management, order handling, and real-time store analytics.
 
 **Tech:** React, Tailwind Css, Redux Tookit, React Hook Form, Git, Node.js, Express, MongoDB, Caddy
+
+### MakeIAS — A Edutech platform for IAS Aspirants
+An admin panel for grocery operations, including inventory and SKU management, order handling, and real-time store analytics.
+
+**Tech:** React, Tailwind Css, Redux Tookit, React Hook Form, Git, Node.js, Express, MongoDB, Caddy, Admin Panel Development
+
+**Links:** [Reference](https://www.makeias.com/)
 
 ## Professional experience
 
